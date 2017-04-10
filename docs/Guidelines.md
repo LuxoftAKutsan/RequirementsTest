@@ -84,3 +84,7 @@
 #### 12. VehicleInfo  
 
 #### [13. WebSocket Transport](WebSocket Transport/index.md#connecting-to-sdl)
+
+## BasicCommunication
+
+### 1. ActivateApp

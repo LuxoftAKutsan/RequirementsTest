@@ -33,9 +33,9 @@
  -   [2.3. OnButtonPress](Buttons/OnButtonPress/index.md#onbuttonpress) 
  -   [2.4. OnButtonSubscription](Buttons/OnButtonSubscription/index.md#onbuttonsubscription) 
 
-#### 3. Common  
--  [3.1. Enumerations](Common/Enums/index.md#enumerations)  
--  [3.2. Structs](Common/Structs/index.md#structs)
+#### 3. [Common](#common)  
+-  3.1. [Enumerations](#enumerations)  
+-  3.2. [Structs](#structs)
 
 #### [4. Configuration file](Configuration file/index.md)  
 
@@ -132,8 +132,8 @@ This request may be sent:
 |Name|Type|Mandatory|Additional|
 |:---|:---|:--------|:---------|
 |appID|Integer|true||
-|priority|[Common.AppPriority](../../common/enums/#apppriority)|false||
-|level|[Common.HMILevel](../../common/enums/#hmilevel)|false||
+|priority|[Common.AppPriority](#apppriority)|false||
+|level|[Common.HMILevel](#hmilevel)|false||
 
 ### Response
 

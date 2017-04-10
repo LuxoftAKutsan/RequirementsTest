@@ -1,6 +1,6 @@
 ## Table of contents
 
- #### 1. BasicCommunication
+ #### 1. [BasicCommunication](#basiccommunication) 
  -   [1.1. ActivateApp](#1-activateapp)
  -   [1.2. AllowDeviceToConnect]()
  -   [1.3. DialNumber]()

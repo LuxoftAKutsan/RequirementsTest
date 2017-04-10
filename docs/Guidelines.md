@@ -37,7 +37,7 @@
 -  3.1. [Enumerations](#enumerations)  
 -  3.2. [Structs](#structs)
 
-#### 4. [Configuration file]()  
+#### 4. [Configuration file](#sdls--configuration-file-structure-ini-file)  
 
 #### [5. Getting Started](Getting Started/index.md#getting-started)  
 

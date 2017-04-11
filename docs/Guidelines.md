@@ -3,7 +3,7 @@
  #### 1. [BasicCommunication](#basiccommunication) 
  -   [1.1. ActivateApp](#1-activateapp)
  -   [1.2. AllowDeviceToConnect](#2-allowdevicetoconnect)
- -   [1.3. DialNumber]()
+ -   [1.3. DialNumber](#3-dialnumber)
  -   [1.4. GetSystemInfo]()
  -   [1.5. MixingAudioSupported]()
  -   [1.6. OnAppActivated]()

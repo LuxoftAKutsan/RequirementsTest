@@ -4,7 +4,7 @@ from markdown import markdown
 import pdfkit
 import re
 #Split all .md in one
-directory = '/home/agovorov/Desktop/RequirementsTest/docs/Guide_index/' 
+directory = '../Guide_index/' 
 flist = [os.path.join(pdir,f) for pdir, dirs, files in os.walk(directory) for f in files]
 for i in flist:
 	print i 

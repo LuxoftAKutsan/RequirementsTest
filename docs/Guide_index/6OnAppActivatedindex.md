@@ -38,10 +38,10 @@ When `OnAppActivated` is received, SDL sends an `ActivateApp` request to confirm
 
 
 ### Sequence Diagrams
-|||
+
 User Activates App
-![OnAppActivated](./assets/OnAppActivated.png)
-|||
+![OnAppActivated](../Guide_assets/OnAppActivated.png)
+
 
 #### JSON Example Notification
 ```json

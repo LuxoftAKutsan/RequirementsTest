@@ -75,7 +75,7 @@ Check mixing audio capabilities and provided an accurate response.
 ```
 
 ### Sequence Diagrams
-|||
+
 MixingAudioSupported Messaging
-![Mixing Audio Supported](./assets/MixingAudioSupported.png)
-|||
+![Mixing Audio Supported](../Guide_assets/MixingAudioSupported.png)
+

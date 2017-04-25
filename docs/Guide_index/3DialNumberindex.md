@@ -47,15 +47,15 @@ The request is considered to have been executed successfully only after the user
 This RPC has no additional parameter requirements
 
 ### Sequence Diagrams
-|||
+
 DialNumber Success
-![DialNumberSuccess](./assets/DialNumberSuccess.jpg)
-|||
-|||
-|||
+![DialNumberSuccess](../Guide_assets/DialNumberSuccess.jpg)
+
+
 DialNumber Failed
-![DialNumberFailed](./assets/DialNumberFailed.png)
-|||
+![DialNumberFailed](../Guide_assets/DialNumberFailed.png)
+
+
 
 ### Example Request
 

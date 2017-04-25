@@ -43,8 +43,8 @@ This request may be sent:
 |Name|Type|Mandatory|Additional|
 |:---|:---|:--------|:---------|
 |appID|Integer|true||
-|priority|[Common.AppPriority](../../common/enums/#apppriority)|false||
-|level|[Common.HMILevel](../../common/enums/#hmilevel)|false||
+|priority|[Common.AppPriority](../Guide_index/Enums.md#apppriority)|false||
+|level|[Common.HMILevel](../Guide_index/Enums.md#hmilevel)|false||
 
 ### Response
 
@@ -98,23 +98,22 @@ This RPC has no additional parameter requirements
 ```
 
 ### Sequence Diagrams
-|||
+
 Activate App after successful Resumption
-![Activate App Successful Resume](./assets/ActivateAppSuccessfulResume.png)
-|||
-|||
+![Activate App Successful Resume](../Guide_assets/ActivateAppSuccessfulResume.png)
+
+
 Activate App after failed Resumption
-![Activate App Failed Resume](./assets/ActivateAppFailedResume.png)
-|||
-|||
+![Activate App Failed Resume](../Guide_assets/ActivateAppFailedResume.png)
+
+
 Activate App after Unexpected Disconnect
-![Activate App Unexpected Disconnect](./assets/ActivateAppUnexpectedDisconnect.png)
-|||
-|||
+![Activate App Unexpected Disconnect](../Guide_assets/ActivateAppUnexpectedDisconnect.png)
+
+
 Activate App after Accepted Data Consent Prompt
-![Activate App Successful Data](./assets/ActivateAppSuccessfulData.png)
-|||
-|||
+![Activate App Successful Data](../Guide_assets/ActivateAppSuccessfulData.png)
+
+
 Activate App after Failed Data Consent Prompt
-![Activate App Failed Data](./assets/ActivateAppFailedData.png)
-|||
+![Activate App Failed Data](../Guide_assets/ActivateAppFailedData.png)

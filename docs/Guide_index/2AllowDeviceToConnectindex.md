@@ -24,7 +24,7 @@ Check whether the device is allowed to connect to the head unit and response app
 
 |Name|Type|Mandatory|Additional|
 |:---|:---|:--------|:---------|
-|device|[Common.DeviceInfo](../../common/structs/#deviceinfo)|true||
+|device|[Common.DeviceInfo](../Guide_index/Structs.md#deviceinfo)|true||
 
 ### Response
 
@@ -83,7 +83,7 @@ Check whether the device is allowed to connect to the head unit and response app
 ```
 
 ### Sequence Diagrams
-|||
+
 AllowDeviceToConnect Messaging
-![Allow Device To Connect](./assets/AllowDeviceToConnect.png)
-|||
+![Allow Device To Connect](../Guide_assets/AllowDeviceToConnect.png)
+
